@@ -7,7 +7,9 @@
 // mod arrays;
 // mod conditions;
 // mod loops;
-mod functions;
+// mod functions;
+// mod structs;
+mod enums;
 
 fn main() {
     // println!("Hello, Rust world!");
@@ -19,6 +21,8 @@ fn main() {
     // arrays::run();
     // conditions::cond();
     // loops::run();
-    functions::run();
+    // functions::run();
+    // structs::run();
+    enums::run();
 
 }
